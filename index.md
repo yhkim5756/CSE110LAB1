@@ -1,9 +1,6 @@
 # Younghyun Kim
 
-
-<img src="https://images.app.goo.gl/EgPCb746VRYEsQJe6"
-     alt="UCSD LOGO"
-     style="float: left; margin-right: 10px;"/>
+![UCSD Logo](./UCSDLogo_JSOE-ComputerSciEng_BlueGold_Print.jpg)
 
 **This is markdown for Lab1**
 

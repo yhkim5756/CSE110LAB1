@@ -19,7 +19,7 @@ git push
 
 I am referencing this page [GitHub Docs](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-Just in case you want to go back to the top [TOP](# Younghyun Kim)
+Just in case you want to go back to the top [top](# Younghyun-Kim)
 
 Also you can go see my [README](./README.md)
 

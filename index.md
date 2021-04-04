@@ -4,6 +4,7 @@
 
 **This is markdown for Lab1**
 
+# Intro
 My name is:
 > Younghyun Kim
 
@@ -16,7 +17,7 @@ git push
 
 I am referencing this page [GitHub Docs](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-Just in case you want to go back to the top [top](# Younghyun-Kim)
+Just in case you want to go back to the top -[top](#Intro)
 
 Also you can go see my [README](./README.md)
 

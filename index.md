@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Younghyun Kim
 
-You can use the [editor on GitHub](https://github.com/yhkim5756/CSE110LAB1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![UCSD Logo](./UCSDLogo_JSOE-ComputerSciEng_BlueGold_Print.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**This is markdown for Lab1**
 
-### Markdown
+# Intro
+My name is:
+> Younghyun Kim
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+And this is how I am going to push this markdown to my repo:
+---
+git add .
+git commit
+git push
+---
 
-```markdown
-Syntax highlighted code block
+I am referencing this page [GitHub Docs](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-# Header 1
-## Header 2
-### Header 3
+Just in case you want to go back to the [Intro](#Intro)
 
-- Bulleted
-- List
+Also you can go see my [README](./README.md)
 
-1. Numbered
-2. List
+Things I love 
+- Sports
+- Music
+- Food
 
-**Bold** and _Italic_ and `Code` text
+My favorite sports teams in order?
 
-[Link](url) and ![Image](src)
-```
+1. Seattle Seahawks
+2. Tottenham Hotspurs
+3. Seattle Sounders
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yhkim5756/CSE110LAB1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I have so many homeworks this week. So far, I am done with one thing
+- [x] CSE 110
+- [ ] CSE 101
+- [ ] ECON 19A
